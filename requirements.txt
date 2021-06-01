@@ -1,0 +1,264 @@
+absl-py==0.11.0
+aniso8601==8.0.0
+anyio==2.2.0
+appdirs==1.4.4
+argon2-cffi @ file:///C:/ci/argon2-cffi_1596828549974/work
+asn1crypto==1.3.0
+astor==0.8.1
+astroid @ file:///C:/ci/astroid_1592481955828/work
+astunparse==1.6.3
+attrs==19.3.0
+autograd==1.3
+autograd-gamma==0.5.0
+Babel==2.9.0
+backcall==0.1.0
+beautifulsoup4==4.8.1
+bleach==3.1.0
+blinker==1.4
+bokeh @ file:///C:/ci/bokeh_1603297932359/work
+boto==2.49.0
+boto3 @ file:///tmp/build/80754af9/boto3_1614015198636/work
+botocore @ file:///tmp/build/80754af9/botocore_1614361462893/work
+Brotli==1.0.9
+cachetools==4.2.1
+catboost==0.24.2
+category-encoders==2.2.2
+certifi==2020.12.5
+cffi==1.14.5
+chardet==3.0.4
+click==7.1.2
+cloudpickle==1.6.0
+colorama==0.4.3
+contextlib2==0.6.0.post1
+cryptography==2.9.2
+cvxopt==1.2.6
+cycler==0.10.0
+Cython==0.29.21
+daal4py==2020.1
+dash==1.20.0
+dash-core-components==1.16.0
+dash-cytoscape==0.2.0
+dash-html-components==1.1.3
+dash-renderer==1.9.1
+dash-table==4.11.3
+decorator==4.4.1
+deepdish==0.3.6
+defusedxml==0.6.0
+deprecation==2.1.0
+dill==0.3.1.1
+distlib==0.3.1
+EasyProcess==0.3
+entrypoints==0.3
+et-xmlfile==1.1.0
+filelock==3.0.12
+flake8==3.8.3
+Flask==1.1.2
+Flask-Compress==1.9.0
+Flask-Cors==3.0.9
+flask-restx==0.2.0
+flatbuffers==1.12
+funcy==1.15
+future==0.18.2
+gast==0.3.3
+gensim @ file:///C:/ci/gensim_1613994638799/work
+gevent==21.1.2
+google-api-core @ file:///C:/ci/google-api-core-split_1601307128777/work
+google-auth==1.21.0
+google-auth-oauthlib==0.4.1
+google-cloud-core @ file:///tmp/build/80754af9/google-cloud-core_1613414810663/work
+google-cloud-storage @ file:///tmp/build/80754af9/google-cloud-storage_1614362409953/work
+google-crc32c @ file:///C:/ci/google-crc32c_1612243062336/work
+google-pasta==0.2.0
+google-resumable-media @ file:///tmp/build/80754af9/google-resumable-media_1608056254223/work
+googleapis-common-protos @ file:///C:/ci/googleapis-common-protos-feedstock_1613725344730/work
+graphviz @ file:///tmp/build/80754af9/python-graphviz_1612303637553/work
+greenlet==1.1.0
+grpcio==1.32.0
+gTTS==2.0.4
+gTTS-token==1.1.3
+gym==0.17.3
+gym-notebook-wrapper==1.2.4
+h5py==2.10.0
+idna @ file:///C:/TCAgent2/work/77d6987f4a2d253e/conda-build/idna_1593153737295/work
+imageio==2.9.0
+imageio-ffmpeg==0.4.3
+importlib-metadata @ file:///C:/ci/importlib-metadata_1593446525189/work
+-e git+https://github.com/Olu93/project_network_science.git@ee61df7db85b05f647a855ed68ccaba549f6340f#egg=infomap&subdirectory=vendor\py
+interpret==0.2.4
+interpret-core==0.2.4
+intervaltree==3.1.0
+ipykernel==5.1.3
+ipython @ file:///C:/ci/ipython_1598353543543/work
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isort @ file:///C:/ci/isort_1597597762781/work
+itsdangerous==1.1.0
+jedi==0.16.0
+Jinja2==2.11.3
+jmespath @ file:///tmp/build/80754af9/jmespath_1594304593830/work
+joblib==1.0.1
+json5==0.9.5
+jsonpickle==2.0.0
+jsonschema==3.2.0
+jupyter==1.0.0
+jupyter-client==6.1.12
+jupyter-console==6.0.0
+jupyter-core==4.6.1
+jupyter-packaging==0.7.12
+jupyter-server==1.4.1
+jupyterlab==3.0.12
+jupyterlab-server==2.3.0
+Keras==2.3.1
+Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
+Keras-Preprocessing==1.1.2
+kiwisolver @ file:///C:/TCAgent2/work/77d6987f4a2d253e/conda-build/kiwisolver_1593157095741/work
+lazy-object-proxy==1.4.3
+lifelines==0.25.6
+light-famd==0.0.3
+lightgbm==3.0.0
+lime==0.2.0.1
+lxml==4.6.2
+Markdown @ file:///C:/ci/markdown_1597415185889/work
+MarkupSafe==1.1.1
+matplotlib==3.4.0
+-e git+https://github.com/zuoxingdong/mazelab.git@236eef5f7c41b86bb784f506fe1a2e0700a2e48f#egg=mazelab
+mccabe==0.6.1
+mistune==0.8.4
+mkl-fft==1.0.15
+mkl-random==1.1.0
+mkl-service==2.3.0
+more-itertools==8.5.0
+mpmath==1.2.1
+multidict @ file:///C:/ci/multidict_1607367865052/work
+multiprocess==0.70.9
+nbclassic==0.2.6
+nbconvert==5.6.1
+nbformat==4.4.0
+networkx==2.4
+networkx-viewer==0.2.0
+ngboost==0.3.6
+nibabel==3.2.1
+nilearn==0.7.1
+nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
+notebook==6.0.2
+numexpr==2.7.0
+numpy==1.20.3
+oauthlib==3.1.0
+olefile==0.46
+openpyxl==3.0.7
+opt-einsum==3.3.0
+packaging==20.4
+pandas==1.2.4
+pandocfilters==1.4.2
+parso==0.6.2
+patsy==0.5.1
+pickleshare==0.7.5
+Pillow @ file:///C:/ci/pillow_1594298234712/work
+pipenv==2020.11.15
+playsound==1.2.2
+plotly==4.12.0
+pm4py==2.2.1
+prince==0.7.0
+prometheus-client==0.7.1
+prompt-toolkit==2.0.10
+protobuf==3.13.0
+psutil==5.8.0
+PuLP==2.1
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycodestyle==2.6.0
+pycparser==2.20
+pydot==1.4.2
+pydotplus @ file:///tmp/build/80754af9/pydotplus_1594390100614/work
+pyflakes==2.2.0
+pygame==2.0.1
+pyglet==1.5.0
+Pygments==2.6.1
+pygraphviz==1.7
+PyJWT==1.7.1
+pyLDAvis==3.3.1
+pylint @ file:///C:/ci/pylint_1598605958085/work
+pyOpenSSL==19.1.0
+pyparsing==2.4.7
+pyrsistent==0.17.3
+PySocks==1.7.0
+python-dateutil==2.8.1
+python-louvain==0.14
+pytz==2021.1
+PyVirtualDisplay==2.1
+pyvis==0.1.8.2
+PyWavelets==1.1.1
+pywin32==227
+pywinpty==0.5.7
+PyYAML==5.3.1
+pyzmq==18.1.0
+qtconsole==4.7.3
+QtPy==1.9.0
+regex @ file:///C:/ci/regex_1596827857056/work
+requests==2.23.0
+requests-oauthlib==1.3.0
+retrying==1.3.3
+rope @ file:///tmp/build/80754af9/rope_1602264064449/work
+rpy2 @ file:///C:/Users/ohund/workspace/misc/rpy2
+rsa==4.7.2
+s3transfer @ file:///tmp/build/80754af9/s3transfer_1610404175646/work
+SALib==1.3.13
+scikit-image==0.18.1
+scikit-learn==0.24.0
+scipy @ file:///C:/ci/scipy_1614023124510/work
+seaborn==0.11.1
+Send2Trash==1.5.0
+shap==0.35.0
+simplegeneric==0.8.1
+six==1.16.0
+sklearn==0.0
+skope-rules==1.0.1
+smart-open @ file:///tmp/build/80754af9/smart_open_1614023135845/work
+sniffio==1.2.0
+sortedcontainers==2.3.0
+soupsieve==1.9.4
+statsmodels @ file:///D:/bld/statsmodels_1612273795533/work
+StringDist==1.0.9
+supervisor==4.1.0
+sympy==1.7.1
+tables==3.6.1
+TBB==0.1
+tensorboard==2.4.1
+tensorboard-plugin-wit==1.6.0
+tensorflow==2.4.0
+tensorflow-estimator==2.4.0
+termcolor==1.1.0
+terminado==0.8.3
+testpath==0.4.4
+threadpoolctl==2.1.0
+tifffile==2021.3.17
+tigramite @ git+https://github.com/jakobrunge/tigramite.git@0f641472ab42592a2732c2e235f470310d5709e9
+toml @ file:///tmp/build/80754af9/toml_1592853716807/work
+tornado==6.1
+tqdm @ file:///tmp/build/80754af9/tqdm_1607369919789/work
+traitlets==4.3.3
+treeinterpreter==0.2.3
+typed-ast==1.4.1
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1598376058250/work
+tzlocal==2.1
+urllib3==1.25.9
+virtualenv==20.2.2
+virtualenv-clone==0.5.4
+wcwidth==0.1.7
+webencodings==0.5.1
+Werkzeug==0.16.1
+widgetsnbextension==3.5.1
+wikipedia==1.4.0
+win-inet-pton==1.1.0
+wincertstore==0.2
+wordcloud==1.8.1
+wrapt==1.12.1
+wurlitzer==2.0.0
+xarray==0.17.0
+xgboost==1.1.1
+xlrd==1.2.0
+yapf==0.28.0
+yarl @ file:///C:/ci/yarl_1598045271760/work
+zipp==0.6.0
+zope.event==4.5.0
+zope.interface==5.4.0
